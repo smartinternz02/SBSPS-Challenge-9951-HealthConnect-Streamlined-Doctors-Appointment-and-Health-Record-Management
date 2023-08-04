@@ -9,8 +9,8 @@
 1. **IBM Cloud Account**
 2. **GitHub Repository**
 3. **Web Development Skills**
-   - **HTML, CSS, JavaScript**
-   - **Bootstrap**
+   - **HTML, CSS, JavaScript,React.js,Bootstrap**
+   - **Python,Django,celery beat**
 
 4. **IBM Cloud Services**
    - **IBM Cloud Foundry**
